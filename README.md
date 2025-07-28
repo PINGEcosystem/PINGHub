@@ -1,6 +1,7 @@
 # PINGHub
-Resources for leveraging fishfinders (i.e. low-cost sonar) for scientific research.
+Resources for leveraging fishfinders (i.e. low-cost sonar) for scientific research. Click the links below to find more information.
 
-## Workshops
+* [Workshops](https://github.com/PINGEcosystem/PINGHub/wiki/Workshops): Find past and future workshops and corresponding materials (if available).
+* [Training Videos](): Compilation of 
 
 
