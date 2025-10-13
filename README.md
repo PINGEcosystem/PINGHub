@@ -5,6 +5,7 @@ Resources for leveraging fishfinders (i.e. low-cost sonar) for scientific resear
 * [Software](https://github.com/PINGEcosystem/PINGHub/wiki/Software): Currated list of software to process data from fishfinders.
 * [Training Videos](https://github.com/PINGEcosystem/PINGHub/wiki/Training-Videos): Training video resources.
 * [Workshops](https://github.com/PINGEcosystem/PINGHub/wiki/Workshops): Find past and future workshops and corresponding materials (if available).
+* [Miscellaneous](https://github.com/PINGEcosystem/PINGHub/wiki/Miscellaneous)
 
 
 
